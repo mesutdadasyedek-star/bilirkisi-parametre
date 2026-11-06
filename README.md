@@ -1,0 +1,2 @@
+# bilirkisi-parametre
+parametre
